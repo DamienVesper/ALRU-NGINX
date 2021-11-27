@@ -1,6 +1,6 @@
 <div align="center">
     <h1>NGINX</h1>
-    <p>NGINX site configurations for the Alliance Reunited webserver</p>
+    <p>NGINX site configurations for the Alliance Reunited webserver.</p>
 </div>
 
 ## Updating Configuration
